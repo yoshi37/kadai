@@ -1,4 +1,4 @@
-﻿/*作成者：1T1(37)　吉田祥*/
+﻿
 
 #include<stdio.h>
 int sigma(int a);
