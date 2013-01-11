@@ -1,14 +1,14 @@
-ï»¿/*ä½œæˆè€…ï¼š1T1(37)ã€€å‰ç”°ç¥¥*/
+/*ì¬ÒF1T1(37)@‹g“cË*/
 
 #include<stdio.h>
 int sigma(int a);
 
 void main(void){
 	int a,b;
-	printf("åˆè¨ˆã‚’æ±‚ã‚ãŸã„æ•°ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ï¼š");
+	printf("‡Œv‚ğ‹‚ß‚½‚¢”‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢F");
 	scanf("%d",&a);
-	b = sigma(a);
-	printf("1ã‹ã‚‰%dã¾ã§ã®åˆè¨ˆã¯%dã§ã™\n",a,b);
+	b = sigma(a);	//‡Œv‚ğ‹‚ß‚éŒvZ®
+	printf("1‚©‚ç%d‚Ü‚Å‚Ì‡Œv‚Í%d‚Å‚·\n",a,b);
 }
 
 int sigma(int a){
