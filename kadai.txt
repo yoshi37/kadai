@@ -1,4 +1,4 @@
-﻿
+﻿あいうえお
 
 #include<stdio.h>
 int sigma(int a);
