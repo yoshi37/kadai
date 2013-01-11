@@ -1,5 +1,4 @@
 ﻿/*作成者：1T1(37)　吉田祥*/
-/*課題名：課題 06_1 */
 
 #include<stdio.h>
 int sigma(int a);
